@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML_Setup.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SFML_project.cpp
+C:\Users\sohas\Desktop\SFML project\SFML_Setup\Classes.h(94,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohas\Desktop\SFML project\SFML_Setup\Classes.h(95,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sohas\Desktop\SFML project\SFML_Setup\SFML_project.cpp(146,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sohas\Desktop\SFML project\SFML_Setup\SFML_project.cpp(156,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SFML_Setup.vcxproj -> C:\Users\sohas\Desktop\SFML project\SFML_Setup\Debug\SFML_CS112_project.exe
